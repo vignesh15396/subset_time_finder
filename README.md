@@ -1,1 +1,1 @@
-# Get the each user's time spent after eliminating the overlap and subset time
+# Get the each user's total time spent after eliminating the overlap and subset time
